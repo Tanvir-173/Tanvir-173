@@ -64,7 +64,8 @@ I love exploring new technologies and continuously improving my development work
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanvir-173&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvir-173&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Tanvir-173&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tanvir-173&theme=radical)
+
 
 ---
 
