@@ -1,14 +1,6 @@
 <!-- Banner with Profile Image -->
 <!-- Modern Banner with Profile Picture -->
-<div align="center" style="background-color:#0D1116; 
-                           padding:50px; 
-                           border-radius:15px; 
-                           position:relative; 
-                           overflow:hidden;
-                           background-image: url('https://i.ibb.co.com/fzfjXV5n/premium-photo-1661963212517-830bbb7d76fc-w-500-auto-format-fit-crop-q-60-ixlib-rb-4-1.jpg');
-                           background-size: cover;
-                           background-position: center;
-                           background-repeat: no-repeat;">
+<div align="center" style="background-color:#0D1116; padding:50px; border-radius:15px; position:relative; overflow:hidden;">
   
   <!-- Decorative circles -->
   <div style="position:absolute; top:20px; left:10%; width:50px; height:50px; background:#fbbf24; border-radius:50%;"></div>
@@ -25,6 +17,7 @@
   <p style="color:#fbbf24; font-size:22px; margin-top:10px;">Aspiring Software Engineer | MERN Stack & Next.js Enthusiast</p>
   
 </div>
+
 
 
 
