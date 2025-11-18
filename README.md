@@ -8,13 +8,16 @@
   <div style="position:absolute; bottom:20px; right:25%; width:40px; height:40px; background:#d63384; border-radius:50%;"></div>
 
   <!-- Profile Image -->
-  <img src="https://avatars.githubusercontent.com/u/100024949508739?v=4" alt="Profile Pic" width="140" height="140" style="border-radius:50%; border:4px solid #fbbf24; margin-bottom:20px; z-index:1; position:relative;">
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQH7X75NuGJp2w/profile-displayphoto-scale_200_200/B56ZpgfAESJkAY-/0/1762555331736?e=1764806400&v=beta&t=k22-B8zzuciRvMqgKqLV21A2Qd-FJ272jk-FyR76ZFY" 
+       alt="Profile Pic" width="140" height="140" 
+       style="border-radius:50%; border:4px solid #fbbf24; margin-bottom:20px; z-index:1; position:relative;">
 
   <!-- Title -->
   <h1 style="color:white; font-size:48px; font-weight:800; margin:0;">Hi! I'm Md. Tanvir Islam</h1>
   <p style="color:#fbbf24; font-size:22px; margin-top:10px;">Aspiring Software Engineer | MERN Stack & Next.js Enthusiast</p>
   
 </div>
+
 
 
 <br/>
