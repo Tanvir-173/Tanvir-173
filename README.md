@@ -81,7 +81,7 @@ I love exploring new technologies and continuously improving my development work
   </a>
 
   <!-- Location -->
-  <a href="https://www.google.com/maps/place/Aftabnagar,+Dhaka,+Bangladesh" target="_blank">
+  <a href="https://www.google.com/maps/place/Aftabnagar,+Dhaka-1212,+Bangladesh" target="_blank">
     <img src="https://img.shields.io/badge/Location-Aftabnagar%2C%20Dhaka-blue?style=for-the-badge&logo=map-marker&logoColor=white" alt="Location"/>
   </a>
 </p>
