@@ -1,6 +1,6 @@
 <!-- Banner with Profile Image -->
 <!-- Modern Banner with Profile Picture -->
-<div align="center" style="background-color:#0f172a; padding:50px; border-radius:15px; position:relative; overflow:hidden;">
+<div align="center" style="background-color:#0D1116; padding:50px; border-radius:15px; position:relative; overflow:hidden;">
   
   <!-- Decorative circles -->
   <div style="position:absolute; top:20px; left:10%; width:50px; height:50px; background:#fbbf24; border-radius:50%;"></div>
