@@ -1,6 +1,14 @@
 <!-- Banner with Profile Image -->
 <!-- Modern Banner with Profile Picture -->
-<div align="center" style="background-color:#0D1116; padding:50px; border-radius:15px; position:relative; overflow:hidden;">
+<div align="center" style="background-color:#0D1116; 
+                           padding:50px; 
+                           border-radius:15px; 
+                           position:relative; 
+                           overflow:hidden;
+                           background-image: url('https://i.ibb.co/20Wjsqz9/8961162.jpg');
+                           background-size: cover;
+                           background-position: center;
+                           background-repeat: no-repeat;">
   
   <!-- Decorative circles -->
   <div style="position:absolute; top:20px; left:10%; width:50px; height:50px; background:#fbbf24; border-radius:50%;"></div>
@@ -13,10 +21,11 @@
        style="border-radius:50%; border:4px solid #fbbf24; margin-bottom:20px; z-index:1; position:relative;">
 
   <!-- Title -->
-  <h1 style="color:white; font-size:48px; font-weight:800; margin:0;"> Md. Tanvir Islam</h1>
-  <p style="color:#fbbf24; font-size:22px; margin-top:10px;">Aspiring Software Engineer | MERN Stack Enthusiast</p>
+  <h1 style="color:white; font-size:48px; font-weight:800; margin:0;">Hi! I'm Md. Tanvir Islam</h1>
+  <p style="color:#fbbf24; font-size:22px; margin-top:10px;">Aspiring Software Engineer | MERN Stack & Next.js Enthusiast</p>
   
 </div>
+
 
 
 
