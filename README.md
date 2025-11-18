@@ -64,12 +64,12 @@ I love exploring new technologies and continuously improving my development work
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/tanvir-islam-3b3a82292" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="LinkedIn" height="40" style="margin-right:10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right:10px;"/>
   </a>
 
   <!-- Facebook -->
   <a href="https://web.facebook.com/profile.php?id=100024949508739" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/facebook.svg" alt="Facebook" height="40" style="margin-right:10px;">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="margin-right:10px;"/>
   </a>
 
   <!-- Gmail -->
