@@ -48,7 +48,7 @@ I love exploring new technologies and continuously improving my development work
 
 ---
 
-## 🌐 Connect With Me  
+  
 
 ## 🌐 Connect With Me  
 
@@ -78,7 +78,8 @@ I love exploring new technologies and continuously improving my development work
 ## 📊 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanvir-173&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvir-173&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvir-173&layout=compact&theme=radical&exclude_repo=Jupyter-Notebook-Repo)
+
 
 
 
