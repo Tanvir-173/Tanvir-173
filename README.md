@@ -59,25 +59,31 @@ I love exploring new technologies and continuously improving my development work
 </p>
 
 ---
-
-  
-
 ## 🌐 Connect With Me  
 
 <p align="center">
   <!-- LinkedIn -->
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/FADSFFA/)  [<img         src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/REFRFDASFFA)  
+  <a href="https://www.linkedin.com/in/tanvir-islam-3b3a82292" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="LinkedIn" height="40" style="margin-right:10px;">
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://web.facebook.com/profile.php?id=100024949508739" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/facebook.svg" alt="Facebook" height="40" style="margin-right:10px;">
+  </a>
 
   <!-- Gmail -->
   <a href="mailto:tanvirislam29122000@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-right:10px;"/>
   </a>
-  
+
   <!-- Location -->
-  <a href="https://www.google.com/maps/place/Dhaka,+Bangladesh" target="_blank">
-    <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-blue?style=for-the-badge&logo=map-marker&logoColor=white" alt="Location"/>
+  <a href="https://www.google.com/maps/place/Aftabnagar,+Dhaka,+Bangladesh" target="_blank">
+    <img src="https://img.shields.io/badge/Location-Aftabnagar%2C%20Dhaka-blue?style=for-the-badge&logo=map-marker&logoColor=white" alt="Location"/>
   </a>
 </p>
+
+  
 
 
 ## 📊 GitHub Stats  
