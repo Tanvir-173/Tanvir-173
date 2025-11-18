@@ -14,7 +14,7 @@
 
   <!-- Title -->
   <h1 style="color:white; font-size:48px; font-weight:800; margin:0;">Hi! I'm Md. Tanvir Islam</h1>
-  <p style="color:#fbbf24; font-size:22px; margin-top:10px;">Aspiring Software Engineer | MERN Stack & Next.js Enthusiast</p>
+  <p style="color:#fbbf24; font-size:22px; margin-top:10px;">Aspiring Software Engineer | MERN Stack Enthusiast</p>
   
 </div>
 
@@ -23,7 +23,7 @@
 <br/>
 
 # 👋 Hi, I'm Md. Tanvir Islam  
-### 🎓 Graduate | MERN Stack & Next.js Enthusiast
+### 🎓 CSE Graduate | MERN Stack Enthusiast
 
 ---
 
