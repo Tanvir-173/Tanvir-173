@@ -50,15 +50,30 @@ I love exploring new technologies and continuously improving my development work
 
 ## 🌐 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanvir-islam-3b3a82292)  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100024949508739)  
-[![Gmail Badge](https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanvirislam29122000@gmail.com)  
+## 🌐 Connect With Me  
 
-<p>
-  <img src="https://img.shields.io/badge/Location-Bangladesh-blue?style=for-the-badge&logo=map-marker" />
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/tanvir-islam-3b3a82292" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+  <!-- Facebook -->
+  <a href="https://web.facebook.com/profile.php?id=100024949508739" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  
+  <!-- Gmail -->
+  <a href="mailto:tanvirislam29122000@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  
+  <!-- Location -->
+  <a href="https://www.google.com/maps/place/Dhaka,+Bangladesh" target="_blank">
+    <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-blue?style=for-the-badge&logo=map-marker&logoColor=white" alt="Location"/>
+  </a>
 </p>
 
----
 
 ## 📊 GitHub Stats  
 
