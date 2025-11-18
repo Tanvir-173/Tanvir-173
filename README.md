@@ -13,7 +13,7 @@
        style="border-radius:50%; border:4px solid #fbbf24; margin-bottom:20px; z-index:1; position:relative;">
 
   <!-- Title -->
-  <h1 style="color:white; font-size:48px; font-weight:800; margin:0;">Hi! I'm Md. Tanvir Islam</h1>
+  <h1 style="color:white; font-size:48px; font-weight:800; margin:0;"> Md. Tanvir Islam</h1>
   <p style="color:#fbbf24; font-size:22px; margin-top:10px;">Aspiring Software Engineer | MERN Stack Enthusiast</p>
   
 </div>
