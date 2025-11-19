@@ -1,17 +1,25 @@
 <!-- Banner with Profile Image -->
-<!-- Modern Banner with Profile Picture -->
-<p align="center">
-  <img src="https://i.ibb.co.com/20Wjsqz9/8961162.jpg" width="100%" />
+<!-- Banner Background -->
+<p align="center" style="margin:0; padding:0;">
+  <img 
+    src="https://i.ibb.co.com/20Wjsqz9/8961162.jpg" 
+    width="100%" 
+    height="300px"
+    style="object-fit: cover; display:block;"
+  />
 </p>
 
-<div align="center">
-
-  <img src="https://media.licdn.com/dms/image/v2/D5603AQH7X75NuGJp2w/profile-displayphoto-scale_200_200/B56ZpgfAESJkAY-/0/1762555331736?e=1764806400&v=beta&t=k22-B8zzuciRvMqgKqLV21A2Qd-FJ272jk-FyR76ZFY" 
-       width="140" 
-       style="border-radius:50%; border:4px solid #fbbf24; margin-top:-120px; position:relative; z-index:10;" 
+<!-- Profile + Text -->
+<div align="center" style="margin-top:-140px;"> <!-- Pull UP the profile pic -->
+  
+  <!-- Profile Picture -->
+  <img 
+    src="https://media.licdn.com/dms/image/v2/D5603AQH7X75NuGJp2w/profile-displayphoto-scale_200_200/B56ZpgfAESJkAY-/0/1762555331736?e=1764806400&v=beta&t=k22-B8zzuciRvMqgKqLV21A2Qd-FJ272jk-FyR76ZFY"
+    width="150" 
+    style="border-radius:50%; border:5px solid #fbbf24;"
   />
 
-  <h1>Hi! I'm Md. Tanvir Islam</h1>
+  <h1 style="color:white; font-weight:800; margin-top:15px;">Hi! I'm Md. Tanvir Islam</h1>
   <h3 style="color:#fbbf24;">Aspiring Software Engineer | MERN Stack & Next.js Enthusiast</h3>
 
 </div>
