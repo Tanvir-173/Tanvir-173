@@ -1,28 +1,23 @@
 <!-- Banner with Profile Image -->
 <!-- Banner Background -->
-<p align="center" style="margin:0; padding:0;">
-  <img 
-    src="https://i.ibb.co.com/20Wjsqz9/8961162.jpg" 
-    width="100%" 
-    height="300px"
-    style="object-fit: cover; display:block;"
-  />
-</p>
-
-<!-- Profile + Text -->
-<div align="center" style="margin-top:-140px;"> <!-- Pull UP the profile pic -->
+<div align="center" style="background-color:#0D1116; padding:50px; border-radius:15px; position:relative; overflow:hidden;">
   
-  <!-- Profile Picture -->
-  <img 
-    src="https://media.licdn.com/dms/image/v2/D5603AQH7X75NuGJp2w/profile-displayphoto-scale_200_200/B56ZpgfAESJkAY-/0/1762555331736?e=1764806400&v=beta&t=k22-B8zzuciRvMqgKqLV21A2Qd-FJ272jk-FyR76ZFY"
-    width="150" 
-    style="border-radius:50%; border:5px solid #fbbf24;"
-  />
+  <!-- Decorative circles -->
+  <div style="position:absolute; top:20px; left:10%; width:50px; height:50px; background:#fbbf24; border-radius:50%;"></div>
+  <div style="position:absolute; top:50px; right:15%; width:30px; height:30px; background:#f59e0b; border-radius:50%;"></div>
+  <div style="position:absolute; bottom:20px; right:25%; width:40px; height:40px; background:#d63384; border-radius:50%;"></div>
 
-  <h1 style="color:white; font-weight:800; margin-top:15px;">Hi! I'm Md. Tanvir Islam</h1>
-  <h3 style="color:#fbbf24;">Aspiring Software Engineer | MERN Stack & Next.js Enthusiast</h3>
+  <!-- Profile Image -->
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQH7X75NuGJp2w/profile-displayphoto-scale_200_200/B56ZpgfAESJkAY-/0/1762555331736?e=1764806400&v=beta&t=k22-B8zzuciRvMqgKqLV21A2Qd-FJ272jk-FyR76ZFY" 
+       alt="Profile Pic" width="140" height="140" 
+       style="border-radius:50%; border:4px solid #fbbf24; margin-bottom:20px; z-index:1; position:relative;">
 
+  <!-- Title -->
+  <h1 style="color:white; font-size:48px; font-weight:800; margin:0;">Hi! I'm Md. Tanvir Islam</h1>
+  <p style="color:#fbbf24; font-size:22px; margin-top:10px;">Aspiring Software Engineer | MERN Stack & Next.js Enthusiast</p>
+  
 </div>
+
 
 
 
