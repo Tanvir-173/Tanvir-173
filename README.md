@@ -1,28 +1,21 @@
 <!-- Banner with Profile Image -->
 <!-- Modern Banner with Profile Picture -->
-<div align="center" style="
-  background: linear-gradient(135deg, #0D1116 0%, #1A1F27 100%);
-  padding:50px; 
-  border-radius:15px; 
-  position:relative; 
-  overflow:hidden;
-">
-  
-  <!-- Decorative circles -->
-  <div style="position:absolute; top:20px; left:10%; width:50px; height:50px; background:#fbbf24; border-radius:50%;"></div>
-  <div style="position:absolute; top:50px; right:15%; width:30px; height:30px; background:#f59e0b; border-radius:50%;"></div>
-  <div style="position:absolute; bottom:20px; right:25%; width:40px; height:40px; background:#d63384; border-radius:50%;"></div>
+<p align="center">
+  <img src="https://i.ibb.co.com/20Wjsqz9/8961162.jpg" width="100%" />
+</p>
 
-  <!-- Profile Image -->
+<div align="center">
+
   <img src="https://media.licdn.com/dms/image/v2/D5603AQH7X75NuGJp2w/profile-displayphoto-scale_200_200/B56ZpgfAESJkAY-/0/1762555331736?e=1764806400&v=beta&t=k22-B8zzuciRvMqgKqLV21A2Qd-FJ272jk-FyR76ZFY" 
-       alt="Profile Pic" width="140" height="140" 
-       style="border-radius:50%; border:4px solid #fbbf24; margin-bottom:20px; z-index:1; position:relative;">
+       width="140" 
+       style="border-radius:50%; border:4px solid #fbbf24; margin-top:-120px; position:relative; z-index:10;" 
+  />
 
-  <!-- Title -->
-  <h1 style="color:white; font-size:48px; font-weight:800; margin:0;">Hi! I'm Md. Tanvir Islam</h1>
-  <p style="color:#fbbf24; font-size:22px; margin-top:10px;">Aspiring Software Engineer | MERN Stack & Next.js Enthusiast</p>
-  
+  <h1>Hi! I'm Md. Tanvir Islam</h1>
+  <h3 style="color:#fbbf24;">Aspiring Software Engineer | MERN Stack & Next.js Enthusiast</h3>
+
 </div>
+
 
 
 
